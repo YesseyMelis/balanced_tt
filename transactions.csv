@@ -1,0 +1,12 @@
+date,first_name,last_name,transaction_id,amount,currency
+12/10/2022,yessey,melis,1,500,DOLLAR
+10/10/2022,yessey,melis,2,400,TENGE
+10/09/2022,yessey,melis,3,300,TENGE
+11/09/2022,yessey,melis,4,500,TENGE
+13/09/2022,yessey,melis,5,600,DOLLAR
+1/08/2022,yessey,melis,6,350,TENGE
+2/08/2022,yessey,melis,7,770,TENGE
+4/08/2022,yessey,melis,8,870,TENGE
+5/07/2022,yessey,melis,9,970,TENGE
+6/07/2022,yessey,melis,10,670,TENGE
+7/07/2022,yessey,melis,11,470,TENGE
