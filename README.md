@@ -1,5 +1,9 @@
 # balanced_tt
 
+# install requirements
+```pip install -r requirements.txt```
+
+
 # run tests
 ```python tests.py```
 
